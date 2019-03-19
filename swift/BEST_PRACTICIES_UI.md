@@ -24,5 +24,5 @@
  
  ### Autolayout tools
  
- It's not recommended to use any *third-party* tools for autolayout. Instead we prefer to use standard API from iOS SDK.  
+ It's not recommended to use any *third-party* tools for autolayout. 
 
